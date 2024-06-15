@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Анастасия Буянова](https://up.htmlacademy.ru/htmlcss/40/user/1893123).
-* Наставник: `Неизвестно`.
+- Студент: [Анастасия Буянова](https://up.htmlacademy.ru/htmlcss/40/user/1893123).
+- Наставник: [Николай Шабалин](https://htmlacademy.ru/profile/id1057153).
 
 ---
 

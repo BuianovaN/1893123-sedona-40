@@ -2,6 +2,7 @@
 
 - Студент: [Анастасия Буянова](https://up.htmlacademy.ru/htmlcss/40/user/1893123).
 - Наставник: [Николай Шабалин](https://htmlacademy.ru/profile/id1057153).
+- Сайт [Мой сайт](https://buianovan.github.io/1893123-sedona-40/)
 
 ---
 
